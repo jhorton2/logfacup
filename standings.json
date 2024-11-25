@@ -1,0 +1,9 @@
+{
+    "week": 4,
+    "teams": [
+        { "name": "drewdaugherty & TheBrownBombers69", "wins": 3, "losses": 1, "points": 720.5 },
+        { "name": "felipeconcha & theoperator09", "wins": 2, "losses": 2, "points": 690.2 },
+        { "name": "chrisd285 & jhorton22", "wins": 4, "losses": 0, "points": 750.1 },
+        { "name": "realmitchmeyer & secondbestidea", "wins": 1, "losses": 3, "points": 640.3 }
+    ]
+}
